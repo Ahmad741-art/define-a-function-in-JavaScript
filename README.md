@@ -1,1 +1,1 @@
-# define-a-function-in-JavaScrip
+# define-a-function-in-JavaScript
